@@ -1,0 +1,16 @@
+{
+	"files.exclude": {
+		"**/.github": true,
+		"**/.gitignore": true,
+		"**/._*": true,
+		"**/CODE_OF_CONDUCT.md": true,
+		"**/CONTRIBUTING.md": true,
+		"**/LICENSE*": true,
+		"**/NOTICE": true,
+		"**/README.*": true,
+		"**/build_docs.py": true,
+	},
+	"workbench.editorAssociations": {
+		"*.md": "vscode.markdown.preview.editor",
+	},
+}
